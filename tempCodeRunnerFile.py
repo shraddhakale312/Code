@@ -1,0 +1,6 @@
+plt.bar(counts.index, counts.values)
+    # plt.xlabel('Sentiment')
+    # plt.ylabel('Count')
+    # plt.xticks(range(3), ['Negative', 'Neutral', 'Positive'])
+    # plt.title('Comments Sentiment Analysis')
+    # plt.show()
